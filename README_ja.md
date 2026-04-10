@@ -19,7 +19,7 @@
 [[ドキュメント](https://qwenpaw.agentscope.io/)] [[English](README.md)] [[中文](README_zh.md)] [[Русский](README_ru.md)]
 
 <p align="center">
-  <img src="https://img.alicdn.com/imgextra/i2/O1CN014TIqyO1U5wDiSbFfA_!!6000000002467-2-tps-816-192.png" alt="QwenPaw Logo" width="120">
+  <img src="https://gw.alicdn.com/imgextra/i1/O1CN01sens5C1TuwioeGexL_!!6000000002443-55-tps-771-132.svg" alt="QwenPaw Logo" width="120">
 </p>
 
 <p align="center"><b>あなたのために働き、あなたとともに成長する。</b></p>
@@ -216,7 +216,7 @@ qwenpaw app
 
 ```bash
 # 特定のバージョンをインストール
-curl -fsSL ... | bash -s -- --version 0.0.2
+curl -fsSL ... | bash -s -- --version 1.1.0
 
 # ソースからインストール（開発/テスト用）
 curl -fsSL ... | bash -s -- --from-source
@@ -505,7 +505,7 @@ QwenPaw はオープンな協働により進化を続けており、あらゆる
 
 ## なぜQwenPaw？
 
-QwenPawは **Co Personal Agent Workstation**（共同パーソナルエージェントワークステーション）であると同時に、「co-paw」— いつもあなたのそばにいるパートナーを表しています。単なる冷たいツールではなく、QwenPawはいつでも手（または肉球！）を貸してくれる温かい「小さな肉球」です。デジタルライフにおける究極のチームメイトです。
+QwenPaw は Qwen Personal Agent Workstation（Qwen 個人エージェントワークステーション）の略であると同時に、Qwen の知性と Paw の温もりを体現しています。単なる冷たいツールではなく、いつでも手を差し伸べてくれる、賢くて温かい「小さな爪」でありたい — あなたのデジタルライフで最も息の合ったパートナーです。
 
 ---
 

@@ -19,7 +19,7 @@
 [[Документация](https://qwenpaw.agentscope.io/)] [[English](README.md)] [[中文](README_zh.md)] [[日本語](README_ja.md)]
 
 <p align="center">
-  <img src="https://img.alicdn.com/imgextra/i2/O1CN014TIqyO1U5wDiSbFfA_!!6000000002467-2-tps-816-192.png" alt="QwenPaw Logo" width="120">
+  <img src="https://gw.alicdn.com/imgextra/i1/O1CN01sens5C1TuwioeGexL_!!6000000002443-55-tps-771-132.svg" alt="QwenPaw Logo" width="120">
 </p>
 
 <p align="center"><b>Понимает вас, всегда с вами.</b></p>
@@ -217,7 +217,7 @@ qwenpaw app
 
 ```bash
 # Установить конкретную версию
-curl -fsSL ... | bash -s -- --version 0.0.2
+curl -fsSL ... | bash -s -- --version 1.1.0
 
 # Установить из исходников (для разработки/тестирования)
 curl -fsSL ... | bash -s -- --from-source
@@ -506,7 +506,7 @@ QwenPaw развивается через открытую совместную 
 
 ## Почему QwenPaw?
 
-QwenPaw — это и «ваш партнер-лапка» (co-paw), и аббревиатура **Co Personal Agent Workstation** (совместная персональная рабочая станция агентов). Мы хотим, чтобы это был не холодный инструмент, а теплая «лапка», всегда готовая помочь — самый надежный партнер в вашей цифровой жизни.
+QwenPaw расшифровывается как **Qwen Personal Agent Workstation** (персональная рабочая станция агентов Qwen), а также воплощает мудрость Qwen и теплоту Paw. Мы хотим, чтобы это был не холодный инструмент, а умная и тёплая «маленькая лапка», всегда готовая прийти на помощь — самый надёжный партнёр в вашей цифровой жизни.
 
 ---
 

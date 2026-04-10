@@ -19,7 +19,7 @@
 [[文档](https://qwenpaw.agentscope.io/)] [[English](README.md)] [[日本語](README_ja.md)] [[Русский](README_ru.md)]
 
 <p align="center">
-  <img src="https://img.alicdn.com/imgextra/i2/O1CN014TIqyO1U5wDiSbFfA_!!6000000002467-2-tps-816-192.png" alt="QwenPaw Logo" width="120">
+  <img src="https://gw.alicdn.com/imgextra/i1/O1CN01sens5C1TuwioeGexL_!!6000000002443-55-tps-771-132.svg" alt="QwenPaw Logo" width="120">
 </p>
 
 <p align="center"><b>懂你所需，伴你左右。</b></p>
@@ -214,7 +214,7 @@ qwenpaw app
 
 ```bash
 # 安装指定版本
-curl -fsSL ... | bash -s -- --version 0.0.2
+curl -fsSL ... | bash -s -- --version 1.1.0
 
 # 从源码安装（开发/测试用）
 curl -fsSL ... | bash -s -- --from-source
@@ -553,7 +553,7 @@ QwenPaw 在开放协作中持续演进，欢迎各种形式的参与！请参考
 
 ## 为什么叫 QwenPaw？
 
-QwenPaw 既是「你的搭档小爪子」（co-paw），也寓意 **Co Personal Agent Workstation**（协同个人智能体工作台）。我们希望它不是冰冷的工具，而是一只随时准备帮忙的温暖「小爪子」，是你数字生活中最默契的伙伴。
+QwenPaw 既是 Qwen Personal Agent Workstation（千问个人智能体工作台），也寓意 Qwen 的智识，Paw 的温度。我们希望它不是冰冷的工具，而是一只随时准备帮忙的智慧、温暖“小爪子”，是你数字生活中最默契的伙伴。
 
 ---
 

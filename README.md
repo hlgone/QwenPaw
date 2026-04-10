@@ -19,7 +19,7 @@
 [[Documentation](https://qwenpaw.agentscope.io/)] [[中文](README_zh.md)] [[日本語](README_ja.md)] [[Русский](README_ru.md)]
 
 <p align="center">
-  <img src="https://img.alicdn.com/imgextra/i2/O1CN014TIqyO1U5wDiSbFfA_!!6000000002467-2-tps-816-192.png" alt="QwenPaw Logo" width="120">
+  <img src="https://gw.alicdn.com/imgextra/i1/O1CN01sens5C1TuwioeGexL_!!6000000002443-55-tps-771-132.svg" alt="QwenPaw Logo" width="120">
 </p>
 
 <p align="center"><b>Works for you, grows with you.</b></p>
@@ -200,7 +200,7 @@ qwenpaw app
 
 ```bash
 # Install a specific version
-curl -fsSL ... | bash -s -- --version 0.0.2
+curl -fsSL ... | bash -s -- --version 1.1.0
 
 # Install from source (dev/testing)
 curl -fsSL ... | bash -s -- --from-source
@@ -476,7 +476,8 @@ Join [GitHub Discussions](https://github.com/agentscope-ai/QwenPaw/discussions) 
 
 ## Why QwenPaw?
 
-QwenPaw represents both a **Co Personal Agent Workstation** and a "co-paw"—a partner always by your side. More than just a cold tool, QwenPaw is a warm "little paw" always ready to lend a hand (or a paw!). It is the ultimate teammate for your digital life.
+QwenPaw stands for Qwen Personal Agent Workstation, and also embodies the wisdom of Qwen and the warmth of a Paw.
+We hope it is not a cold tool, but an intelligent and warm "little paw" always ready to help—a most intuitive partner in your digital life.
 
 ---
 

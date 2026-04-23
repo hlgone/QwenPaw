@@ -986,6 +986,12 @@ class WeixinChannel(BaseChannel):
                         errcode,
                         to_user_id,
                     )
+                    return
+            logger.info(
+                "weixin send_text ok: to_user_id=%s text_len=%s",
+                to_user_id,
+                len(text),
+            )
         except Exception:
             logger.exception("weixin _send_text_direct failed")
 
